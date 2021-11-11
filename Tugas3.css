@@ -1,0 +1,22 @@
+.p_satu {
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.p_dua {
+  background-color: blue;
+  color: white;
+  border: 1px solid black;
+}
+
+.p_tiga {
+  font-family: monospace;
+  font-size: 18px;
+  border: 1px solid black;
+}
+
+.p_empat {
+  background-color: gray;
+  font-weight: bold;
+  border: 1px solid black;
+}
